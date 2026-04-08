@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"40ee3b455654bd70","type":"text","text":"สิทธิ์แต่ละห้อง\n\n| ห้อง                | Level | หมายเหุต                 |\n| ------------------- | ----- | ------------------------ |\n| 01                  | 7     | Recruit & Training Group |\n| 02,04,05,08,31,0607 | All   | จองได้ทั่วไป             |\n| 03                  | 0     | GA Group                 |\n| VIP                 | 0     | GA Group                 |","x":-360,"y":-240,"width":485,"height":290},
+		{"id":"5b7a963f5579dd9e","type":"text","text":"ตารางLevel ในการจอง ห้อง \n\n| Level | กลุ่ม                    | สิทธิ์ในการจองห้อง                |\n| ----- | ------------------------ | --------------------------------- |\n| 0     | GA/Admin                 | จอง Room **03**, Room **VIP** ได้ |\n| 1     | พนักงานทั่วไป            | จองได้เฉพาะห้องทั่วไป             |\n| 7     | Recruit & Training Group | จอง Room **01** ได้               |","x":-380,"y":-600,"width":525,"height":210},
+		{"id":"4be541c6f5e703b3","type":"text","text":"สิทธิ์แก้ไข/ลบ \n\n| Level     | Edit/Delete         |\n| --------- | ------------------- |\n| เป็น GA   | ลบแก้ไขได้ทั้งหมด   |\n| ไม่ใช่ GA | ลบได้เฉพาะของตัวเอง |","x":-820,"y":-580,"width":302,"height":170}
+	],
+	"edges":[
+		{"id":"f91d475433bd0c27","fromNode":"5b7a963f5579dd9e","fromSide":"bottom","toNode":"40ee3b455654bd70","toSide":"top"},
+		{"id":"971afee974939bbf","fromNode":"5b7a963f5579dd9e","fromSide":"left","toNode":"4be541c6f5e703b3","toSide":"right"}
+	]
+}

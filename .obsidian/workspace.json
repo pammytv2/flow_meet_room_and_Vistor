@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "57177e43b3d60e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "32898ddad7530c8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed179ffd0aa2cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visitor and Business Traveller Schedue Online System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visitor and Business Traveller Schedue Online System"
+            }
+          },
+          {
+            "id": "b5fa8adbec5e88fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visitor and Business Traveller Schedue Online System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visitor and Business Traveller Schedue Online System"
+            }
+          },
+          {
+            "id": "f13577730c1da69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visitor and Business Traveller Schedue Online System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visitor and Business Traveller Schedue Online System"
+            }
+          },
+          {
+            "id": "c72cc43a7b520f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting  Room.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting  Room"
+            }
+          },
+          {
+            "id": "fbabcb90c8123b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visitor and Business Traveller Schedue Online System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visitor and Business Traveller Schedue Online System"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bda195afbe3f7e20",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edda482f5279a77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea127f71663fa703",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15c4098ef6422e31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "193fa9fd5596aa00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f2fe21d7df2d349",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bbfe9bed65d9717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5cfe93fdad74c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Meeting  Room.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Meeting  Room"
+            }
+          },
+          {
+            "id": "b12aa4e6070dc361",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Meeting  Room.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Meeting  Room"
+            }
+          },
+          {
+            "id": "d92393744ee69c29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0875015e9dfe09e0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "38ea6503ea254903",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Meeting  Room.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Meeting  Room"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c72cc43a7b520f97",
+  "lastOpenFiles": [
+    "README.md",
+    "TC_V-01 แสดงรายการข้อมูลแขก.canvas",
+    "Meeting  Room.md",
+    "Visitor and Business Traveller Schedue Online System.md",
+    "TC_V-02 การเพิ่มข้อมูล แขก /การแก้ไข/ลบข้อมูล.canvas",
+    "TC-02 ทำการจองห้องประชุม.canvas",
+    "TC-03 สิทธิ์พิเศษในการจองห้องแต่ละห้อง.canvas",
+    "TC-01 แสดงรายการการจองห้อง วัน-เดือน-ปี.canvas",
+    "TC_V-03  สิทธิในการใช้งานระบบ.canvas",
+    "TC_V-02 การเพิ่มข้อมูล แขก /การแก้ไข",
+    "TC_V-02 การเพิ่มข้อมูล แขก ",
+    "TC-01 แสดงรายการการจองห้อง วัน-เดือน-ปี.md",
+    "TC-04 สิทธิ์พิเศษในการจองห้องแต่ละห้อง.md",
+    "TC-04 สิทธิ์พิเศษในการจองห้องแต่ละห้อง.canvas",
+    "TC-03 ทำการจองห้องประชุม.md",
+    "TC-02 ทำการจองห้องประชุม.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "().md",
+    "Tc.md",
+    "2026-04-08.md",
+    "Untitled 3.base",
+    "Untitled 7.base",
+    "Untitled 8.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base"
+  ]
+}
